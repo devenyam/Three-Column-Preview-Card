@@ -2,5 +2,5 @@
 A challenge from frontendmentor.io
 
 ## Languages used
-- HTML/CSS
+- HTML
 - Sass (CSS Framework)
